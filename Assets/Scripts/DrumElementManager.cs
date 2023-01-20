@@ -17,7 +17,7 @@ public class DrumElementManager : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        float _pitch = Random.Range(0.0f, 2.0f);
+        float _pitch = Random.Range(0.90f, 1.10f);
         _audioSource.pitch = _pitch;
 
         _audioSource.volume = collision.relativeVelocity.magnitude;

@@ -5,15 +5,18 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/Demo Scene.unity
-    guid: 493cc1dee6b4cbf45aa08ec75bce1df9
-  - enabled: 0
-    path: Assets/Scenes/Drums.unity
-    guid: 3745b83aebfd1ce49a6945356d22ea0a
-  - enabled: 0
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 5345bc588c4f4904da7f24d43c68bafe
+  - enabled: 1
     path: Assets/Scenes/Dog Training.unity
     guid: d69e783c2693ee44d8fb9de1c52d9836
+  - enabled: 1
+    path: Assets/Scenes/Demo Scene.unity
+    guid: 493cc1dee6b4cbf45aa08ec75bce1df9
+  - enabled: 1
+    path: Assets/Scenes/Drums.unity
+    guid: 3745b83aebfd1ce49a6945356d22ea0a
   - enabled: 1
     path: Assets/Scenes/Drums with Passthrough.unity
     guid: 6776444d0ecad3647b3397415cdb1a98
