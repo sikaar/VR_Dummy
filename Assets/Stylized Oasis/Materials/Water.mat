@@ -128,8 +128,8 @@ Material:
     - _BumpScale: 1
     - _Cull: 2
     - _Cutoff: 0.5
-    - _Depth: 0.2
-    - _Displacement: -0.23
+    - _Depth: 1
+    - _Displacement: -0.3
     - _DstBlend: 0
     - _EnvironmentReflections: 1
     - _GlossMapScale: 0
@@ -146,10 +146,10 @@ Material:
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _Strenght: 5
+    - _Strenght: 2
     - _Surface: 0
     - _Tiling: 1.5
-    - _Tilling: 1
+    - _Tilling: 0.5
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
